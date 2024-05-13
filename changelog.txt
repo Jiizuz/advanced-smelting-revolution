@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-05-13
+  Major Features:
+    - First stable release.
+  Features:
+    - Two new advanced electric furnaces added.
+    - One new technology added.
+  Locale:
+    - Added English (US) locale.
+    - Added Spanish (Spain) locale.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2024-05-13
   Major Features:
