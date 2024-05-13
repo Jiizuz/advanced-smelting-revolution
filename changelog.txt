@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2024-05-13
+  Major Features:
+    - Initial release.
+  Locale:
+    - Added English (US) locale.
+    - Added Spanish (Spain) locale.
