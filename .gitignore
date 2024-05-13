@@ -76,6 +76,7 @@ luac.out
 .idea/**/.gitignore
 .idea/**/.name
 .idea/**/encodings.xml
+.idea/**/jsonSchemas.xml
 .idea/**/misc.xml
 .idea/**/workspace.xml
 .idea/**/shelf/
